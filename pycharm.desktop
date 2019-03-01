@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pycharm
+Comment=pycharm client
+Exec=/opt/pycharm-community-2018.3.4/bin/pycharm.sh
+Icon=/opt/pycharm-community-2018.3.4/bin/pycharm.png
+Terminal=false
+Categories=Application;
+StartupNotify=true
+
